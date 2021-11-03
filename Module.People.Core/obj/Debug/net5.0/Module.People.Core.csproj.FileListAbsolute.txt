@@ -1,0 +1,12 @@
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\bin\Debug\net5.0\Module.People.Core.deps.json
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\bin\Debug\net5.0\Module.People.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\bin\Debug\net5.0\ref\Module.People.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\bin\Debug\net5.0\Module.People.Core.pdb
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\Module.People.Core.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\Module.People.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\Module.People.Core.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\Module.People.Core.AssemblyInfo.cs
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\Module.People.Core.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\Module.People.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\ref\Module.People.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.People.Core\obj\Debug\net5.0\Module.People.Core.pdb

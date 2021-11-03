@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PrfK5H/IKdGfhV+/I61dq93ot7s0GWrRXAQAnJxxyJRArtQbrrWcE5AXqX32eA0syYYKSQAMqnZxxpp9x583xg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Modular-Monolith\\Shared.Core\\Shared.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I7\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\bin\Debug\net5.0\Shared.Infrastructure.deps.json
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\bin\Debug\net5.0\Shared.Infrastructure.runtimeconfig.json
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\bin\Debug\net5.0\Shared.Infrastructure.runtimeconfig.dev.json
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\bin\Debug\net5.0\Shared.Infrastructure.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\bin\Debug\net5.0\ref\Shared.Infrastructure.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\bin\Debug\net5.0\Shared.Infrastructure.pdb
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.AssemblyInfo.cs
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\ref\Shared.Infrastructure.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.pdb
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Infrastructure\obj\Debug\net5.0\Shared.Infrastructure.genruntimeconfig.cache

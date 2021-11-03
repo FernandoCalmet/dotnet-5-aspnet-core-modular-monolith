@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\bin\Debug\net5.0\Module.Catalog.Core.deps.json
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\bin\Debug\net5.0\Module.Catalog.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\bin\Debug\net5.0\ref\Module.Catalog.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\bin\Debug\net5.0\Module.Catalog.Core.pdb
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\bin\Debug\net5.0\Shared.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\bin\Debug\net5.0\Shared.Core.pdb
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.AssemblyInfo.cs
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.csproj.CopyComplete
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\ref\Module.Catalog.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.pdb

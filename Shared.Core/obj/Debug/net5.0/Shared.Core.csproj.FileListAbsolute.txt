@@ -1,0 +1,12 @@
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\bin\Debug\net5.0\Shared.Core.deps.json
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\bin\Debug\net5.0\Shared.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\bin\Debug\net5.0\ref\Shared.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\bin\Debug\net5.0\Shared.Core.pdb
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\Shared.Core.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\Shared.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\Shared.Core.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\Shared.Core.AssemblyInfo.cs
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\Shared.Core.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\Shared.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\ref\Shared.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Modular-Monolith\Shared.Core\obj\Debug\net5.0\Shared.Core.pdb
