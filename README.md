@@ -21,7 +21,7 @@ Este proyecto es una muestra de una aplicación modular con arquitectura monolí
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/CS-ASPNET-Core-Modular-Monolith
+gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-Modular-Monolith
 ```
 
 Ejecutar aplicación.
